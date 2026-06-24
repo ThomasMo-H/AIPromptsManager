@@ -78,11 +78,12 @@ The prompt is automatically copied to the clipboard and can optionally be inject
 
 ## Light Mode
 
-<img width="1131" height="843" alt="AI Prompt Manager Light Mode" src="https://github.com/user-attachments/assets/f847deb0-edfd-42ea-93ce-df563b65e463" />
+<img width="1607" height="712" alt="image" src="https://github.com/user-attachments/assets/81323557-b7e2-4998-b5b8-a57ee7d849ea" />
 
 ## Dark Mode
 
-<img width="1131" height="843" alt="AI Prompt Manager Dark Mode" src="https://github.com/user-attachments/assets/fadb53c9-c816-4872-854c-20108c664165" />
+<img width="1603" height="699" alt="image" src="https://github.com/user-attachments/assets/31e6a24f-7717-4293-b3eb-b6e9fb58f3d7" />
+
 
 ---
 
